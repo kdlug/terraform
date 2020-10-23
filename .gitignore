@@ -1,0 +1,5 @@
+linux_amd64
+.history
+.terraformi
+*.tfstate
+*.tfstate.backup
